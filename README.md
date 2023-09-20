@@ -1,5 +1,5 @@
 # Manual-Testing-Project-
-Project
+Project (Open Cart)
 
 Test Plan
 
